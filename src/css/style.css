@@ -1,0 +1,43 @@
+h1.my-txt-blue {
+    color: #FFFFFF;
+}
+
+.pic-con {
+	margin: 3px 0 0 0;
+}
+
+.sortable {
+    cursor: pointer;
+    color: #71dd8a;
+}
+
+.icon-create{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: url("../icons/create.png") no-repeat center center;
+    background-size: 100% 100%;
+}
+.icon-edit{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: url("../icons/edit.png") no-repeat center center;
+    background-size: 100% 100%;
+}
+
+.icon-remove{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: url("../icons/remove.png") no-repeat center center;
+    background-size: 100% 100%;
+}
+
+.icon-moretools{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: url("../icons/moretools.png") no-repeat center center;
+    background-size: 100% 100%;
+}
